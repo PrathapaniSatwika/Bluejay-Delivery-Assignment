@@ -1,1 +1,36 @@
-"Your console output"
+Employees who have worked for 7 consecutive days:
+Empty DataFrame
+Columns: [Employee Name, Position ID]
+Index: []
+
+Employees who have less than 10 hours between shifts but greater than 1 hour:
+                 Employee Name Position ID
+1464  AGeX, WaMhaW REGerM PeWa   WFS000588
+1466  AGeX, WaMhaW REGerM PeWa   WFS000588
+1468  AGeX, WaMhaW REGerM PeWa   WFS000588
+1470  AGeX, WaMhaW REGerM PeWa   WFS000588
+1472  AGeX, WaMhaW REGerM PeWa   WFS000588
+...                        ...         ...
+717             ZaCEra, Edward   WFS000477
+720             ZaCEra, Edward   WFS000477
+722             ZaCEra, Edward   WFS000477
+724             ZaCEra, Edward   WFS000477
+726             ZaCEra, Edward   WFS000477
+
+[691 rows x 2 columns]
+
+Employees who have worked for more than 14 hours in a single shift:
+                 Employee Name Position ID
+1464  AGeX, WaMhaW REGerM PeWa   WFS000588
+1466  AGeX, WaMhaW REGerM PeWa   WFS000588
+1468  AGeX, WaMhaW REGerM PeWa   WFS000588
+1470  AGeX, WaMhaW REGerM PeWa   WFS000588
+1087       AXcEcer, ECar JesAs   WFS000541
+...                        ...         ...
+717             ZaCEra, Edward   WFS000477
+718             ZaCEra, Edward   WFS000477
+720             ZaCEra, Edward   WFS000477
+722             ZaCEra, Edward   WFS000477
+724             ZaCEra, Edward   WFS000477
+
+[681 rows x 2 columns]
